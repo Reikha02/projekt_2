@@ -1,3 +1,10 @@
+"""
+projekt_1.py: První projekt do Engeto Online Python Akademie
+author: Michaela Terelya
+email: michaela.terelya@gmail.com
+discord: reikha.
+"""
+
 from task_template import TEXTS
 
 # Vložíme do programu informaci o registrovaných uživatelích
