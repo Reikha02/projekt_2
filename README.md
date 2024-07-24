@@ -1,2 +1,2 @@
-# textovy_analyzator
-První projekt pro Engeto Akademii - program pro analýzu textu.
+# projekty pro engeto
+Repozitář pro sdílení projektů z kurzu engeta.
